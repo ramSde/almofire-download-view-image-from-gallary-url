@@ -1,0 +1,6 @@
+framework module Pods_almophire_test {
+  umbrella header "Pods-almophire_test-umbrella.h"
+
+  export *
+  module * { export * }
+}
